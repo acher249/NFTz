@@ -1,0 +1,2 @@
+# NFTz
+nft algoz
